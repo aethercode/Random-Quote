@@ -10,7 +10,7 @@ while (clock==0):
    e = (input())
 
    if e=="generate":
-      print("That really ", random.choice(verb), " my ", random.choice(noun), ".")
+      print("That really", random.choice(verb), "my", random.choice(noun), ".")
    if e=="lmao":
        print("I know right im so random")
    if e=="bye":
