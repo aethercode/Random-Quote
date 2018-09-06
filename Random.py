@@ -1,8 +1,8 @@
 import random
 
 clock = 0
-verb = ("Tickles", "Eats", "Munches", "Punches", "Twists", "Shoots")
-noun = ("School", "Face", "Arm", "Mouth", "Head", "Nose", "Foot")
+verb = ("Tickles", "Eats", "Munches", "Punches", "Twists", "Shoots", "Beats", "Bends", "Bites", "Blows", "Breaks", "Builds", "Burns", "Catches", "Cuts", "Digs", "Dive", "Draws", "Dreams", "Feels", "Fights", "Freezes", "Grows", "Hangs", "Hears", "Hides", "Hurts", "Throws")
+noun = ("School", "Face", "Arm", "Mouth", "Head", "Nose", "Foot", "People", "History", "Art", "World", "Map", "Family", "Government", "Health", "System", "Computer", "Music", "Person", "Method", "Food", "Bird", "Literature", "Problem", "Software", "Knowledge", "Brain", "Economy", "Oven", "Friends")
 
 
 while (clock==0):
